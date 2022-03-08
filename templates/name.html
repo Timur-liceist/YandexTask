@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <h1>Миссия Колонизация Марса</h1>
+    <h4>И на Марсе будут яблони цвести!</h4>
+</head>
+    <body>
+    <h2 align="center">{{ user["name"] }} {{ user["surname"] }}</h2>
+    <center>
+
+        <img src={{ user["file"] }} width=20% height=20% >
+    </center>
+    <h3 align="center">{{ ", ".join(user["specials"]) }}</h3>
+    </body>
+</html>

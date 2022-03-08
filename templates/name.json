@@ -1,0 +1,32 @@
+{
+  "users":
+          [
+            {
+              "name": "Timur",
+              "surname": "Ochilov",
+              "file": "static/img/TimkaOch.jpg",
+              "specials": [
+                "programmer",
+                "student"
+              ]
+            },
+            {
+              "name": "Arthur",
+              "surname": "Ochilov",
+              "file": "static/img/ArthurOch.jpg",
+              "specials": [
+                "3D Creater",
+                "programmer"
+              ]
+            },
+            {
+              "name": "Aslan",
+              "surname": "Ochilov",
+              "file": "static/img/AslanOch.jpg",
+              "specials": [
+                "designer",
+                "lawyer"
+              ]
+            }
+          ]
+}
